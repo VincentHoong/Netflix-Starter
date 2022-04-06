@@ -29,7 +29,7 @@ import amerp from "../images/amerp.png";
 
 export const movies = [
   {
-    Movie: "",
+    Movie: "https://ipfs.moralis.io:2053/ipfs/QmNtxfy9Mk8qLsdGnraHGk5XDim8ayR93krM24ETJEd2bG/media/0",
     Thumbnail: tita,
     Scene: titanicS,
     Logo: movieLogo,
